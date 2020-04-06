@@ -1,13 +1,13 @@
 {
   "name": "command-line-snake",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is snake for the command line",
   "main": "./lib/snake.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "pong": "./bin/index.js"
+    "snake": "./bin/index.js"
   },
   "engines": {
     "node": ">=12.0.0"
