@@ -26,7 +26,7 @@
   "author": "Liam Bloom (https://liambloom.herokuapp.com)",
   "license": "MIT",
   "dependencies": {
-    "command-line-draw": "^1.0.10"
+    "command-line-draw": "^1.1.0"
   },
   "preferGlobal": true
 }
