@@ -19,7 +19,7 @@ Once installed, run `snake` in your command line. Use the arrow keys to control 
 ## Options
 
 ```
-$ snake
+$ snake [-s <value> | --size <value>]
 ```
 
 # Troubleshooting
@@ -68,3 +68,11 @@ Playing field is larger than terminal. Please make terminal larger to continue.
 ### Solution 1
 
 Make your command line window bigger.
+
+### Solution 2
+
+Make the snake board smaller
+
+```
+$ snake -s <size>
+```
